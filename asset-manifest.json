@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactBlog/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactBlog/static/js/main.3e382887.chunk.js",
+    "main.js.map": "/ReactBlog/static/js/main.3e382887.chunk.js.map",
+    "runtime-main.js": "/ReactBlog/static/js/runtime-main.9d760fd4.js",
+    "runtime-main.js.map": "/ReactBlog/static/js/runtime-main.9d760fd4.js.map",
+    "static/js/2.763b34e5.chunk.js": "/ReactBlog/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/ReactBlog/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/ReactBlog/index.html",
+    "precache-manifest.bf309247c6ad219725e1e1638187bf3c.js": "/ReactBlog/precache-manifest.bf309247c6ad219725e1e1638187bf3c.js",
+    "service-worker.js": "/ReactBlog/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactBlog/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/ReactBlog/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactBlog/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d760fd4.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3e382887.chunk.js"
+  ]
+}
